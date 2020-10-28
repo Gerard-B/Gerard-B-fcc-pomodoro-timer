@@ -1,0 +1,66 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  /* next lines are in order to not be able to highlight / drag / select anything, for better UX */
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                supported by Chrome, Edge, Opera and Firefox */
+}
+
+body {
+  margin-top: 2%;
+  font-family: "Dosis", sans-serif;
+  font-size: 1.25rem;
+  background: url("/background.jpg")
+    no-repeat center center fixed;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.elementcontainer {
+  width: 55%;
+  border-radius: 15px;
+  text-align: center;
+  border-style: solid;
+  border-color: rgba(178, 178, 178, 0.6);
+  padding: 1%;
+  margin: 10px;
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+button {
+  padding: 1%;
+  margin: 1%;
+}
+
+.labels {
+  font-size: 1.5rem;
+  padding: 1%;
+}
+
+.labelsplus {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.badge {
+  font-size: 0.75rem;
+}
+
+.length {
+  margin: 1%;
+  padding: 1%;
+}
