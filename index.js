@@ -1,4 +1,4 @@
-// See to-do's in "index.html"
+// See TO-DO's in "index.html"
 $(document).ready(function () {
   //set default session on 25 from html
   var sessioncount = parseInt($("#session-length").html());
