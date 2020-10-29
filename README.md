@@ -4,7 +4,7 @@
 #### To see the Timer live, click **[here](https://gerard-b.github.io/Gerard-B-fcc-pomodoro-timer/)**!
 <br>
 
-I made this 25+5 (Pomodoro)-timer with [jQuery](https://jquery.com/) as [project #5](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-25--5-clock) of the Front End Libraries, part of the [FreeCodeCamp](https://www.freecodecamp.org/) curriculum.
+I made this 25+5 (Pomodoro)-timer with predominately [jQuery](https://jquery.com/) as [project #5](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-25--5-clock) of the Front End Libraries, part of the [FreeCodeCamp](https://www.freecodecamp.org/) curriculum.
 
 ---
 ##### To do list
@@ -32,8 +32,8 @@ See the userstories at the freeCodeCamp-project-website: [Build a 25 + 5 Clock.]
 
 #### Techniques
 Dependencies:
-- Bootstrap: v4.5.3,
-- jQuery: v3.5.1,
+- Bootstrap - v4.5.3,
+- jQuery - v3.5.1,
 - jQuery UI - v1.12.1
 
 Basic techniques: HTML5 + HTML5-audio, JavaScript, CSS, Google Fonts, Markdown.
